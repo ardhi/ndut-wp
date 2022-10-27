@@ -1,0 +1,4 @@
+{
+  "alias": "wp",
+  "dependency": ["@ndut/rest-proxy"]
+}
